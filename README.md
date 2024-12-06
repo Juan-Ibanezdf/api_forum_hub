@@ -56,7 +56,10 @@ USER: Tem permissão para criar e visualizar tópicos e respostas.
 - GET /cursos/{idCurso}/topicos/{idTopico}/respostas/{idResposta}: Detalhar uma resposta específica.
 - PUT /cursos/{idCurso}/topicos/{idTopico}/respostas/{idResposta}: Atualizar uma resposta específica.
 - DELETE /cursos/{idCurso}/topicos/{idTopico}/respostas/{idResposta}: Excluir uma resposta específica.
-  
+
+### UsuarioController
+- POST /usuarios/registro
+
 ## Instruções de Configuração
 
 1. Clone o repositório para o seu ambiente local.
