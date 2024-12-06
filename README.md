@@ -60,6 +60,10 @@ USER: Tem permissão para criar e visualizar tópicos e respostas.
 ### UsuarioController
 - POST /usuarios/registro
 
+
+### AutenticacaoController
+-POST /login
+
 ## Instruções de Configuração
 
 1. Clone o repositório para o seu ambiente local.
